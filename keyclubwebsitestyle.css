@@ -5,3 +5,10 @@ color: peru;
 h2 {
   color:darkslateblue;
 }
+
+backgroundColor {
+  color: F2C7BE
+}
+.changeBackgroundButton {
+  image: center;
+}
